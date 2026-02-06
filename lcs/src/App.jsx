@@ -7,172 +7,149 @@ const competitions = [
     name: "🚪 Terminal Exit",
     description: `Terminal Exit is a survival-based elimination coding contest organized by LCS (Learn Code Solve).
 
-🧠 Core Idea:
-This contest is designed to test how well you perform under extreme pressure. There are no second chances — one slow or incorrect submission can end your journey instantly.
+Core Idea:
+This contest tests your ability to code accurately under extreme pressure.
+One wrong move or slow submission can eliminate you instantly.
 
-⚡ Round 1: Online Qualifier
+Round 1: Online Qualifier
 • Platform: HackerRank
 • Duration: 90 Minutes
-• Type: DSA & Algorithmic Problem Solving
-• Rule: Only top performers qualify, all others are eliminated
+• DSA & Algorithmic problems
+• Only top performers qualify
 
-🔥 Round 2: Elimination Arena (Offline)
+Round 2: Elimination Arena (Offline)
 📍 Venue: IIIT Surat Campus
-• Multiple progressive elimination rounds
-• Difficulty increases after every stage
-• Lowest performers are eliminated in each round
-• No retries, no mercy
+• Progressive elimination rounds
+• Difficulty increases each round
+• Lowest performers eliminated
+• No second chances
 
-📊 Scoring & Tie-Breakers:
-• Based on correctness and efficiency
-• In case of a tie, least accumulated time penalty wins
-• Every second matters ⏱️
+Scoring & Tie-Breakers:
+• Correctness + efficiency
+• Least time penalty wins ties
 
-🚫 Strict Rules:
-• Languages allowed: C++, Java, Python
-• AI tools (ChatGPT, Copilot, Gemini) strictly prohibited
-• Any unfair practice → instant disqualification
+Rules:
+• Languages: C++, Java, Python
+• AI tools strictly prohibited
+• Any unfair practice → Disqualification
 
-💰 Prize Pool:
-🥇 Winner: ₹8,000 + Certificate of Excellence
-🥈 Runner-Up: ₹5,000 + Certificate of Excellence
-🥉 Second Runner-Up: ₹2,000 + Certificate of Excellence
-🎖️ All finalists receive participation certificates
+Prizes:
+🥇 ₹8,000
+🥈 ₹5,000
+🥉 ₹2,000
+(All finalists receive certificates)
 
-🎓 Eligibility:
-• Open to students from any recognized college
-• Must be enrolled in an undergraduate program
-• Individual participation only
+Eligibility:
+• Undergraduate students
+• Individual participation
 
 📞 Contacts:
 Harsh Khulbe – 8810371695
 Anubhav Rajput – 8076884348`,
-    link: "#",
+    link: "https://unstop.com/hackathons/terminal-exit-spring-fiesta-indian-institute-of-information-technology-iiit-surat-1635821",
   },
   {
     id: 2,
     name: "📈 CGPA++: The Semester Supremacy Challenge",
-    description: `CGPA++ is a complete academic and technical evaluation arena organized by LCS (Learn Code Solve).
+    description: `CGPA++ is a complete academic and technical evaluation arena by LCS.
 
-🎯 Objective:
-To evaluate students beyond coding by simulating a real college + industry assessment model where consistency across semesters truly matters.
+Objective:
+To evaluate academic consistency, subject mastery, and interview-level understanding.
 
-🧩 Phase 1: Online Qualifier
+Phase 1: Online Qualifier
 • Platform: HackerRank
-• Focus: DSA & logical problem solving
-• Selection: Only top 12 participants qualify for offline rounds
-• Open to students from all colleges
+• DSA & logical problem solving
+• Top 12 qualify for offline rounds
 
-🏫 Phase 2: Offline Evaluation Rounds
+Phase 2: Offline Rounds
 📍 Venue: IIIT Surat Campus
 
-🔹 Round 1: Academic Evaluation Round
-• Coverage: 7 semesters
-• Subjects: 2 subjects per semester
-• Total subjects evaluated: 14
-• SGPA calculated for each semester
-• Final CGPA derived from all semester SGPAs
+🔹 Academic Evaluation:
+• 7 semesters
+• 2 subjects per semester
+• 14 subjects total
+• SGPA per semester
+• Final CGPA computed
 
-🔹 Round 2: Interview Round
-• Only top performers from Round 1 qualify
-• Interview-level technical & conceptual questions
-• Focus on depth of knowledge, clarity, and confidence
+🔹 Interview Round:
+• Technical & conceptual questions
+• Knowledge depth + communication
 
-📊 Final Evaluation Protocol:
-Final ranking is based on combined performance of:
-• Academic Evaluation Round
-• Interview Round
+Final Ranking:
+• Academic round + interview performance
 
-🎓 Eligibility:
-• Open to students from any recognized college
-• Must be currently enrolled in an undergraduate program
-• Individual participation only
+Eligibility:
+• Undergraduate students
+• Individual participation
 
-⚖️ Rules & Discipline:
-• Platform: HackerRank (Online Round)
-• Strict prohibition of unfair practices
+Rules:
 • Professional conduct mandatory
-• Decision of LCS is final and binding
+• LCS decision final
 
-💰 Prize Pool & Rewards:
-🥇 Winner:
-• ₹8,000 Cash Prize
-• Internship under CSE Faculty, IIIT Surat
-• Certificate of Excellence
+Rewards:
+🥇 ₹8,000 + Internship (IIIT Surat CSE)
+🥈 ₹5,000
+🥉 ₹2,000
 
-🥈 Runner-Up:
-• ₹5,000 Cash Prize
-• Certificate of Excellence
+All participants receive performance marksheet
 
-🥉 Second Runner-Up:
-• ₹2,000 Cash Prize
-• Certificate of Excellence
-
-📄 All Participants:
-• Performance-based marksheet from Academic Evaluation Round
-
-📞 Contacts:
+Contacts:
 Harsh Khulbe – 8810371695
 Anubhav Rajput – 8076884348`,
-    link: "#",
+    link: "https://unstop.com/hackathons/cgpa-the-semester-supremacy-challenge-spring-fiesta-indian-institute-of-information-technology-iiit-surat-1633433?utm_medium=Share&utm_source=logged_out_user&utm_campaign=Online_coding_challenge",
   },
   {
     id: 3,
-    name: "👥💻 Code of Thrones – The Ultimate Team Coding Battle",
-    description: `Code of Thrones is a high-intensity ICPC-style team-based programming contest organized by LCS (Learn Code Solve).
+    name: "⚔️Code of Thrones – The Ultimate Team Coding Battle",
+    description: `Code of Thrones is an ICPC-style team-based coding contest organized by LCS.
 
-🤝 Core Focus:
-Teamwork, logical thinking, speed, and accuracy under pressure.
+Core Focus:
+Teamwork, logic, speed, and accuracy.
 
-👥 Team Structure:
-• Exactly 3 participants per team
-• All team members must sit together
-• Only one laptop per team is allowed
+Team Structure:
+• Exactly 3 participants
+• One laptop per team
+• Team members sit together
 
-🧩 Competition Format:
-• ICPC-style contest with jumbled problem sets
-• Total problems: 6 algorithmic challenges
+Format:
+• 6 jumbled algorithmic problems
 • Time limit: 2 hours
-• Teams compete using a single system
+• One system per team
 
-🏆 Ranking Criteria:
-Top 3 teams decided based on:
+Ranking:
 • Number of correct solutions
 • Total time taken
 
-⚖️ Tie-Breaker Rules:
-• Team with least cumulative time is ranked higher
+Tie-Breaker:
+• Least cumulative time wins
 
-🛠️ Allowed Tools & Environment:
+Tools:
 • Languages: C++, Java, Python
-• Environment: Online / Offline IDE
-• Internet access may be restricted
 • AI tools strictly prohibited
 
-🚫 Code of Conduct & Disqualification:
-• Plagiarism, cheating, or misconduct leads to immediate disqualification
-• Unauthorized communication is not allowed
-• Organizing committee’s decision is final and binding
+Disqualification:
+• Plagiarism or misconduct
+• Committee decision final
 
-💰 Prize Pool:
-🥇 Winner Team: ₹8,000 + Certificates
-🥈 Runner-Up Team: ₹5,000 + Certificates
-🥉 Second Runner-Up Team: ₹2,000 + Certificates
+Prizes:
+🥇 ₹8,000 (Team)
+🥈 ₹5,000
+🥉 ₹2,000
 
-📞 Contacts:
+Contacts:
 Harsh Khulbe – 8810371695
 Anubhav Rajput – 8076884348`,
-    link: "#",
+    link: "https://unstop.com/p/codeclash-spring-fiesta-indian-institute-of-information-technology-iiit-surat-1633364?lb=WZM0l30B&utm_medium=Share&utm_source=sparssax54243&utm_campaign=Online_coding_challenge",
   },
 ];
 
 export default function App() {
-  const [activeId, setActiveId] = useState(null);
+  const [activeId, setActiveId] = useState(0); // default open
 
   return (
     <div className="app">
       <header className="header">
-        <img src="/logo.png" alt="Logo" className="logo" />
+        <img src="/logo.jpeg" alt="Logo" className="logo" />
         <h1>LCS Competitions Arena</h1>
       </header>
 
@@ -195,18 +172,23 @@ export default function App() {
               <div key={comp.id} className="card">
                 <h2>{comp.name}</h2>
                 <pre>{comp.description}</pre>
-                <a href={comp.link} className="register-btn">
+                <a
+                  href={comp.link}
+                  className="register-btn"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   Register Now
                 </a>
               </div>
-            )
+            ),
         )}
       </section>
 
       <section className="about">
-        <h2>About LCS (Learn Code Solve)</h2>
+        <h2>About Learn Code Solve</h2>
         <p>
-          LCS is a student-driven technical community focused on building strong
+          LCS is a student-driven technical community focused on
           problem-solving, academic consistency, and industry-ready skills
           through high-quality competitions.
         </p>
@@ -214,8 +196,8 @@ export default function App() {
 
       <footer className="footer">
         <div className="socials">
-          <a href="#">Instagram</a>
-          <a href="#">WhatsApp</a>
+          <a href="https://www.instagram.com/lcs.iiitsurat?igsh=b2Fmdmp2Nm1ocHJx">Instagram</a>
+          <a href="https://chat.whatsapp.com/DtCFcjLSWkT3lyWF1sgFNs">WhatsApp</a>
         </div>
         <p>© 2026 Learn Code Solve</p>
       </footer>
