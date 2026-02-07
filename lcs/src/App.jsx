@@ -3,7 +3,7 @@ import "./App.css";
 
 const competitions = [
   {
-    id: 1,
+    id: 2,
     name: "🚪 Terminal Exit",
     description: `Terminal Exit is a survival-based elimination coding contest organized by LCS (Learn Code Solve).
 
@@ -49,7 +49,7 @@ Anubhav Rajput – 8076884348`,
     link: "https://unstop.com/hackathons/terminal-exit-spring-fiesta-indian-institute-of-information-technology-iiit-surat-1635821",
   },
   {
-    id: 2,
+    id: 1,
     name: "📈 CGPA++: The Semester Supremacy Challenge",
     description: `CGPA++ is a complete academic and technical evaluation arena by LCS.
 
