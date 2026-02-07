@@ -188,9 +188,8 @@ export default function App() {
       <section className="about">
         <h2>About Learn Code Solve</h2>
         <p>
-          LCS is a student-driven technical community focused on
-          problem-solving, academic consistency, and industry-ready skills
-          through high-quality competitions.
+          LCS is the official coding club of IIIT Surat, focused on building strong problem-solving skills, academic consistency, and industry-ready thinking.
+Through competitive programming contests, technical evaluations, and peer-driven learning, LCS creates an environment where students learn to think logically, code efficiently, and compete confidently.
         </p>
       </section>
 
