@@ -51,7 +51,7 @@ Additional:
 Contacts:
 Harsh Khulbe – 8810371695
 Anubhav Rajput – 8076884348`,
-    link: "https://unstop.com/p/codeclash-spring-fiesta-indian-institute-of-information-technology-iiit-surat-1633364",
+    link: "https://unstop.com/hackathons/code-of-thrones-the-ultimate-team-coding-battle-spring-fiesta-indian-institute-of-information-technology-iiit-1637672",
   },
 
   {
@@ -67,14 +67,14 @@ Phase 1 — Online Screening Round:
 • Platform: Codeforces
 • Format: DSA-based problem solving
 • Focus: Algorithmic and logical questions
-• Selection: Top 12 participants qualify for offline rounds
+• Selection: Top 100 participants qualify for offline rounds
 • Participation: Open to students from all colleges
 
 Phase 2 — Offline Evaluation Rounds:
 
 Round 1: Academic Evaluation Round
-• Coverage: 7 semesters
-• Subjects: 2 subjects per semester (Total: 14 subjects)
+• Coverage: 4 semesters
+• Subjects: 3 subjects per semester (Total: 12 subjects)
 • SGPA calculated for each semester
 • Final CGPA derived from all semesters
 
